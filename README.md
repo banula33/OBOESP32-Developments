@@ -51,20 +51,7 @@ This project involves the design and development of a **custom ESP32-S3 developm
 ---
 
 ## 📸 Project Preview
-## 📸 Project Gallery
-
-### 🔌 Schematic Design
-![Schematic](images/schematic.png)
-
-### 🟩 PCB Layout
-![PCB](images/pcb.png)
-
-### 🧊 3D View
-![3D View](images/3d_view.png)
-
-### 🛠️ Real-World Testing & Debugging
-![Debugging](images/debugging.png)
-
+(Didnt Upload due to Company Policy)
 ---
 
 ## 🚀 Applications
